@@ -1,5 +1,3 @@
-var config = require('../config');
-
 module.exports = function (options) {
 	options = options || {};
 
